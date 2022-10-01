@@ -17,6 +17,9 @@ module.exports = {
       colors: {
         darkPurple: "hsl(287, 61%, 29%)",
       },
+      boxShadow: {
+        "customBlack": "-9px 13px 19px -3px rgba(0,0,0,0.40)",
+      },
     },
   },
   plugins: [],
