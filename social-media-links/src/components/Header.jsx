@@ -6,7 +6,7 @@ const Header = () => {
     <div className="container mx-auto px-4">
       <div className="flex flex-col gap-8 py-16 justify-center items-center w-full">
         <img src={myImage} alt="myImage"  className="w-32 rounded-full md:w-48"/>
-        <h1 className="text-white font-robotoMono text-4xl">Eetu Rönkkö</h1>
+        <h1 className="text-gray-100 font-bold drop-shadow-lg font-robotoMono text-4xl">Eetu Rönkkö</h1>
       </div>
     </div>
   );
